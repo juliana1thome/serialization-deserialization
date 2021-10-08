@@ -1,0 +1,6 @@
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csprojAssemblyReference.cache
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Users\Juliana Thome\RiderProjects\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb
