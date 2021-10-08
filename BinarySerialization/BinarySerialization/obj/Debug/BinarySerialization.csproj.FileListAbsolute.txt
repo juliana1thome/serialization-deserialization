@@ -1,0 +1,9 @@
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\obj\Debug\BinarySerialization.csprojAssemblyReference.cache
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\obj\Debug\BinarySerialization.csproj.CopyComplete
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\Juliana Thome\RiderProjects\ConsoleApplication1\BinarySerialization\obj\Debug\BinarySerialization.pdb

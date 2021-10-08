@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySerialization", "BinarySerialization\BinarySerialization.csproj", "{0EAD5EC1-AB77-44ED-94DA-CD36A235140D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAD5EC1-AB77-44ED-94DA-CD36A235140D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAD5EC1-AB77-44ED-94DA-CD36A235140D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAD5EC1-AB77-44ED-94DA-CD36A235140D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAD5EC1-AB77-44ED-94DA-CD36A235140D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
