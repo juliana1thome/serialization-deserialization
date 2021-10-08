@@ -1,0 +1,9 @@
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.pdb
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csprojAssemblyReference.cache
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.CopyComplete
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.exe
+C:\Users\Juliana Thome\RiderProjects\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.pdb
