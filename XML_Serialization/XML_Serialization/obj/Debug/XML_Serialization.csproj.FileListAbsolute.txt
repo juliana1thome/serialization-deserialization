@@ -1,0 +1,6 @@
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\bin\Debug\XML_Serialization.exe
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\bin\Debug\XML_Serialization.pdb
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csprojAssemblyReference.cache
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.exe
+C:\Users\Juliana Thome\RiderProjects\Serialization\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.pdb
